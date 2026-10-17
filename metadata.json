@@ -1,0 +1,6 @@
+{
+  "name": "SemantiDoc - PDF to AI Structured JSON & Knowledge Base",
+  "description": "Transform unstructured PDFs into semantic, AI-ready JSON knowledge bases, RAG chunks, and structured datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
